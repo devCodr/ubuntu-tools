@@ -9,8 +9,7 @@ gnome-session-quit --power-off
 ```
 
 
-👉 Te debe salir el modal de apagado/reinicio.
-Si funciona, seguimos.
+Te debe salir el modal de apagado/reinicio.
 
 ## 🔹 Paso 2: Crear el archivo .desktop
 
